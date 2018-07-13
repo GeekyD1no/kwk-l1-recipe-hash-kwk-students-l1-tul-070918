@@ -15,10 +15,24 @@
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
 def recipe_ingredients(perfect_10_recipe)
+   {almond_flower: "2_cups"
+   gluten_freewhole_oats: "1_cup"
+   kosher_salt: "1/2_tsp"
+   baking_powder: "1/2_tsp"
+   baking_soda: "1/4_tsp"
+   xanthan_gum: "1/2_tsp"
+   slivered_almonds,_lightly_roasted: "1/4_cup"
+   mini_dark_chocolate_chips: "3/4_cup"
+   olive_oil: "1/2_cup"
+   agave: "1/4_cup"
+   }
+
 end
+
 
 #2: Write code that returns the amount of chocolate chips from perfect_10 ingredients that is needed in the recipe.
 def amount_of_chocolate_chips(perfect_10_recipe)
+
 end
 
 #3: Use `puts` to print out every ingredient and amount in the hash by iterating through the collection. You'll want to use the `each` method.
