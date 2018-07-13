@@ -15,6 +15,7 @@
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
 def recipe_ingredients(perfect_10_recipe)
+   recipe_ingredients = 
    {almond_flower: "2_cups"
    gluten_freewhole_oats: "1_cup"
    kosher_salt: "1/2_tsp"
